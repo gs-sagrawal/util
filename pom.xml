@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.swat</groupId>
     <artifactId>util</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>sa-util</name>
 
@@ -21,7 +21,7 @@
     </distributionManagement>
     <scm>
         <developerConnection>scm:git:git@github.com:gs-sagrawal/util.git</developerConnection>
-        <tag>util-1.0.0</tag>
+        <tag>NatG-@{project.version}</tag>
     </scm>
     <repositories>
         <repository>
